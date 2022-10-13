@@ -1,12 +1,12 @@
 <script>
     export let country;
-
 </script>
 
 <div class="country-container">
     <div class="title">
         {country.country}
     </div>
+
     <div class="rect-container">
         {#each  Array(country["Household application"]) as _, i}
             <div class="rect rect-household"></div>
@@ -34,7 +34,9 @@
 <style>
 
     .country-container{
-        margin-bottom: 20px;
+        margin-top: 25px;
+        margin-bottom: auto;
+        margin-right: 10px;
         box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 
         border: 1px solid #999;
