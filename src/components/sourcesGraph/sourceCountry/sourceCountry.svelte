@@ -27,7 +27,6 @@
         {#each  Array(country["Other"]) as _, i}
             <div class="rect rect-other"></div>
         {/each}
-
     </div>
 </div>
 

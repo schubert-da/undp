@@ -1,12 +1,13 @@
 <script>
     import { sourcesData } from "../../../data/sources_data";
+
     import SourceCountry from "./sourceCountry/sourceCountry.svelte";
+    import SourceLegend from "./sourceLegend/sourceLegend.svelte";
 
     console.log(sourcesData);
 
     const rbs = Object.keys(sourcesData);
 
-    
     function sortCountries(countryList){
         let sortedCountries = countryList.sort((a, b) => {
             let total_a = a["Household application"] + a["Other"] + a["Renewable general"] + a["Solar"] + a["Thermal"]
@@ -26,6 +27,8 @@
     </p>
 </div>
 
+<SourceLegend/>
+
 <div class="graph-container">
     {#each rbs as rb }
         <h2> {rb} </h2>
@@ -39,6 +42,10 @@
 
 
 <style>
+    .title{
+        margin-bottom: 20px;
+    }
+
     .title h2{
         font-family: "Roboto";
         font-size: 36px;
