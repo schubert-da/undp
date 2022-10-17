@@ -1,6 +1,7 @@
 <script>
     export let rbData;
 
+    let barWidth = 300;
     console.log(rbData);
 </script>
 
@@ -10,8 +11,27 @@
             {rb.rb}
         </div>
 
-        <div class="rect-container">
-            rect
+        <div class="bar">
+            <div class="rect rect-household" 
+                style={"width:"+(rb["Household application"]*barWidth)+"px"}>
+            </div>
+            
+            <div class="rect rect-solar" 
+                style={"width:"+(rb["Solar"]*barWidth)+"px"}>
+            </div>
+
+            <div class="rect rect-thermal" 
+                style={"width:"+(rb["Thermal"]*barWidth)+"px"}>
+            </div>
+
+            <div class="rect rect-renewable" 
+                style={"width:"+(rb["Renewable general"]*barWidth)+"px"}>
+            </div>
+
+            <div class="rect rect-other" 
+                style={"width:"+(rb["Other"]*barWidth)+"px"}>
+            </div>
+
         </div>
     </div>
 {/each}
@@ -19,24 +39,30 @@
 
 <style>
     .rb-container{
-        
-    }
-
-    .rect-container{
         display: flex;
-        flex-wrap: wrap;
-        width: 220px;
-        margin: 12px 10px 10px 10px;
+        flex-direction: row;
+        align-items: center;
+        margin-bottom: 10px;
     }
 
-    .rect{
-        width: 30px;
-        height: 30px;
-        margin: 2px;
+    .rb-container .title{
+        width: 240px;
+        font-family: 'Roboto';
+        font-weight: bold;
+        text-align: end;
+        margin-right: 16px;
+    }
 
-        background-color: #666;
-        border: 1px solid #222;
-        border-radius: 2px;
+    .rb-container .bar{
+        width: 300px;
+        height: 26px;
+        /* background-color: #ddd; */
+        border: 1px solid #666;
+        display: flex;
+    }
+
+    .rb-container .bar .rect{
+        height: 100%;
     }
 
     .rect-household{
@@ -56,7 +82,7 @@
     }
 
     .rect-other{
-        background-color: #E0E0E0;
+        background-color: #eaeaea;
     }
 
 </style>

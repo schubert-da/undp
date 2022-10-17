@@ -49,12 +49,12 @@
         font-weight: bold;
         background-color: #fff;
         margin: 0;
-        padding: 5px 10px;
+        padding: 2px 10px;
         border: none;
 
         position: absolute;
         left: 15px;
-        top: -12px;
+        top: -16px;
     }
 
     .title h2{
