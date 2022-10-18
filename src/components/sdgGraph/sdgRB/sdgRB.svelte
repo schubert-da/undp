@@ -2,7 +2,6 @@
     export let rbData;
 
     let barWidth = 300;
-    console.log(rbData);
 </script>
 
 {#each rbData as rb }
