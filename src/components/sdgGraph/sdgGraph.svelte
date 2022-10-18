@@ -1,5 +1,6 @@
 <script>
     import SdgRb from "./sdgRB/sdgRB.svelte";
+    import SdgLegend from "./sdgLegend/sdgLegend.svelte";
     import { sdgData, sdgLabels } from "../../../data/sdg_data";
 
 
@@ -9,12 +10,11 @@
 <div class="title">
     <h2> Same problem, different solutions </h2>
     <p>
-        The following chart shows the solutions mapped in different countries. 
-        Colours indicate the type of energy the solution deals with. 
+        Even when working towards the same goals, in different regions  
     </p>
 </div>
 
-<!-- <SourceLegend/> -->
+<SdgLegend/>
 
 <div class="graph-container">
 
@@ -29,8 +29,28 @@
 
 
 <style>
+    .title{
+        margin-bottom: 24px;
+    }
+
+    .title h2{
+        font-family: "Roboto";
+        font-size: 36px;
+        letter-spacing: -1px;
+        margin: 0;
+        margin-bottom: 8px;
+    }
+
+    .title p{
+        font-family: "Roboto";
+        font-size: 16px;
+        color: #222;
+        max-width: 54ch;
+        margin: 0;
+    }
+
     .sdg-container{
-        padding: 30px 10px;
+        padding: 30px 20px 30px 10px;
         margin-top: 25px;
         margin-bottom: auto;
         margin-right: 10px;
@@ -38,6 +58,7 @@
 
         border: 1px solid #999;
         border-radius: 5px;
+        width: fit-content;
         max-width: 700px;
 
         position: relative;
@@ -57,27 +78,10 @@
         top: -16px;
     }
 
-    .title h2{
-        font-family: "Roboto";
-        font-size: 36px;
-        letter-spacing: -1px;
-        margin: 0;
-        margin-bottom: 8px;
-    }
-
-    .title p{
-        font-family: "Roboto";
-        font-size: 16px;
-        color: #222;
-        max-width: 54ch;
-        margin: 0;
-    }
-
     .graph-container h2{
         font-family: 'Roboto';
         font-size: 28px;
 
-        max-width: 50%;
         border-bottom: 1px solid #999;
     }
 </style>
