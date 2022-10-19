@@ -1,5 +1,6 @@
 <script>
     import { productData } from "../../../data/product_data";
+    import ProductLegend from "./productLegend/productLegend.svelte";
     import ProductRb from "./productRB/productRB.svelte";
 
 
@@ -21,6 +22,7 @@
     </p>
 </div>
 
+<ProductLegend/>
 
 <div class="graph-container">
     {#each rbs as rb }
@@ -30,7 +32,6 @@
    
     {/each}
 </div>
-
 
 <style>
     .title{
@@ -51,14 +52,6 @@
         color: #222;
         max-width: 54ch;
         margin: 0;
-    }
-
-    .graph-container h2{
-        font-family: 'Roboto';
-        font-size: 28px;
-
-        max-width: 50%;
-        border-bottom: 1px solid #999;
     }
 
     .rb-container{
