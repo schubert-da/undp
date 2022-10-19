@@ -13,4 +13,7 @@
 </main>
 
 <style>
+  :global(.graph-container){
+    margin-bottom: 100px;
+  }
 </style>

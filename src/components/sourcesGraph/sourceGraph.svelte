@@ -22,8 +22,9 @@
 <div class="title">
     <h2> Overview of UNDP Solutions </h2>
     <p>
-        The following chart shows the solutions mapped in different countries. 
-        Colours indicate the type of energy the solution deals with. 
+        The following chart shows the solutions mapped by UNDP Accelerator Labs in different countries. <b>Colours indicate the energy categorisation</b> the solution deals with. 
+        <br><br>
+        According to the UNDP, countries are grouped into <b>regional bureaus according to political clustering</b>, rather than geographical clustering. 
     </p>
 </div>
 
@@ -51,7 +52,7 @@
         font-size: 36px;
         letter-spacing: -1px;
         margin: 0;
-        margin-bottom: 8px;
+        margin-bottom: 24px;
     }
 
     .title p{
@@ -68,6 +69,7 @@
 
         max-width: 50%;
         border-bottom: 1px solid #999;
+        margin: 40px 0 5px 0;
     }
 
     .rb-container{

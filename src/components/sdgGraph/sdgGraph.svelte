@@ -10,7 +10,11 @@
 <div class="title">
     <h2> Same problem, different solutions </h2>
     <p>
-        Even when working towards the same goals, in different regions  
+        The <b>Sustainable Development Goals</b>(SDGs) are the blueprint to achieve a better and more sustainable future for all. They address the global challenges we face, including poverty, inequality, climate change, peace, justice, etc.
+        <br><br>
+        Such problems can't be solved with one unified solution by someone sitting behind a desk hundreds of miles away - the <b>people closest to the problem have the most knowledge about it</b>.
+        <br><br><br>
+        Solutions for the same SDG take on a very different nature based on the unique challenges of the locale. We see how the types of solutions tackling the same SDG vary across different regional bureaus.
     </p>
 </div>
 
@@ -38,7 +42,7 @@
         font-size: 36px;
         letter-spacing: -1px;
         margin: 0;
-        margin-bottom: 8px;
+        margin-bottom: 24px;
     }
 
     .title p{
