@@ -91,7 +91,7 @@
     }
 
     .rect-other{
-        background-color: #E0E0E0;
+        background-color: #efefef;
     }
 
 </style>
