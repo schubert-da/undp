@@ -3,33 +3,34 @@
 </script>
 
 <div class="legend">
+    <div class="legend-title"> How ready is the solution to scale? </div>
     <div class="legend-item">
         <div class="rect rect-prod"></div>
-        <span class="legend-item-text"> Solution is a product </span>
+        <span class="legend-item-text"> Solution is a product <span class="light"> - proved to be scalable </span></span>
     </div>
 
     <div class="legend-item">
         <div class="rect rect-prod">
             <div class="inner-rect"></div>
         </div>
-        <span class="legend-item-text"> Solution is a product <span class="light">and solution holder is able to train others</span> </span>
+        <span class="legend-item-text"> Solution is a product <span class="light">and solution holder is <b>able to train</b> others</span> </span>
     </div>
 
     <div class="legend-item">
         <div class="rect rect-proto"></div>
-        <span class="legend-item-text"> Solution is a prototype</span>
+        <span class="legend-item-text"> Solution is a prototype <span class="light"> - unproven to be scalable or feasible </span></span>
     </div>
 
     <div class="legend-item">
         <div class="rect rect-proto">
             <div class="inner-rect"></div>
         </div>
-        <span class="legend-item-text"> Solution is a prototype <span class="light">and solution holder is able to train others</span> </span>
+        <span class="legend-item-text"> Solution is a prototype <span class="light">and solution holder is <b>able to train</b> others</span> </span>
     </div>
 
     <div class="legend-item">
         <div class="rect rect-unknown"></div>
-        <span class="legend-item-text"> Unknown  </span>
+        <span class="legend-item-text"> Unknown </span>
     </div>
 </div>
 
@@ -42,6 +43,13 @@
         border: 1px solid #999;
         border-radius: 5px;
         width: 400px;
+    }
+
+    .legend-title{
+        font-family: 'Roboto';
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: 8px;
     }
     
     .legend-item{
@@ -59,6 +67,13 @@
         font-family: 'Roboto';
         font-weight: bold;
         font-size: 16px;
+    }
+
+    .legend-title{
+        font-family: 'Roboto';
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: 8px;
     }
 
     .legend-item-text .light{

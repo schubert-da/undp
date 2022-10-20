@@ -3,6 +3,7 @@
 </script>
 
 <div class="legend">
+    <div class="legend-title">Energy categorisation </div>
     <div class="legend-item">
         <div class="rect rect-household"></div>
         <span class="legend-item-text"> Household applications</span>
@@ -41,6 +42,13 @@
 
         /* margin-bottom: 40px; */
     }
+
+    .legend-title{
+        font-family: 'Roboto';
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
     
     .legend-item{
         display: flex;
@@ -56,12 +64,12 @@
         padding-top: 6px;
         font-family: 'Roboto';
         font-weight: bold;
-        font-size: 18px;
+        font-size: 17px;
     }
 
     .rect{
-        width: 25px;
-        height: 25px;
+        width: 23px;
+        height: 23px;
         margin: 2px;
 
         background-color: #666;

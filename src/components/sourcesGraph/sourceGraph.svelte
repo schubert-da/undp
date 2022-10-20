@@ -22,7 +22,7 @@
 <div class="title">
     <h2> Overview of UNDP Solutions </h2>
     <p>
-        The following chart shows the solutions mapped by UNDP Accelerator Labs in different countries. <b>Colours indicate the energy categorisation</b> the solution deals with. 
+        The following chart shows the solutions mapped by UNDP Accelerator Labs in different countries. <b>Rectangles depict individual solutions mapped</b> and colours indicate the energy categorisation the solution deals with. 
         <br><br>
         According to the UNDP, countries are grouped into <b>regional bureaus according to political clustering</b>, rather than geographical clustering. 
     </p>
