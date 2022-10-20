@@ -88,7 +88,7 @@
     }
 
     .proto-false.prod-false{
-        background-color: #E0E0E0;
+        background-color: #efefef;
     }
 
 </style>
