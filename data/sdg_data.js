@@ -1,7 +1,7 @@
 export let sdgData = [
     {
       "sdg": 1,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.3,
       "Other": 0.2,
       "Renewable general": 0.2,
@@ -11,7 +11,7 @@ export let sdgData = [
     },
     {
       "sdg": 1,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0.25,
@@ -21,7 +21,7 @@ export let sdgData = [
     },
     {
       "sdg": 1,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0.25,
       "Other": 0,
       "Renewable general": 0.25,
@@ -31,7 +31,7 @@ export let sdgData = [
     },
     {
       "sdg": 1,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0.5,
       "Other": 0,
       "Renewable general": 0,
@@ -41,7 +41,7 @@ export let sdgData = [
     },
     {
       "sdg": 1,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0,
       "Other": 0.25,
       "Renewable general": 0.25,
@@ -51,7 +51,7 @@ export let sdgData = [
     },
     {
       "sdg": 2,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.15384615384615385,
       "Other": 0,
       "Renewable general": 0.07692307692307693,
@@ -61,7 +61,7 @@ export let sdgData = [
     },
     {
       "sdg": 2,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -71,7 +71,7 @@ export let sdgData = [
     },
     {
       "sdg": 2,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0.5,
       "Other": 0.125,
       "Renewable general": 0.125,
@@ -81,7 +81,7 @@ export let sdgData = [
     },
     {
       "sdg": 2,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0.5,
       "Other": 0,
       "Renewable general": 0,
@@ -91,7 +91,7 @@ export let sdgData = [
     },
     {
       "sdg": 2,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.5,
       "Other": 0,
       "Renewable general": 0.5,
@@ -101,7 +101,7 @@ export let sdgData = [
     },
     {
       "sdg": 3,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.4444444444444444,
       "Other": 0,
       "Renewable general": 0,
@@ -111,7 +111,7 @@ export let sdgData = [
     },
     {
       "sdg": 3,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -121,7 +121,7 @@ export let sdgData = [
     },
     {
       "sdg": 3,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0.3333333333333333,
       "Other": 0.16666666666666666,
       "Renewable general": 0,
@@ -131,7 +131,7 @@ export let sdgData = [
     },
     {
       "sdg": 3,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -141,7 +141,7 @@ export let sdgData = [
     },
     {
       "sdg": 3,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.2,
       "Other": 0.1,
       "Renewable general": 0.4,
@@ -151,7 +151,7 @@ export let sdgData = [
     },
     {
       "sdg": 4,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.6666666666666666,
       "Other": 0,
       "Renewable general": 0.3333333333333333,
@@ -161,7 +161,7 @@ export let sdgData = [
     },
     {
       "sdg": 4,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 1,
@@ -171,7 +171,7 @@ export let sdgData = [
     },
     {
       "sdg": 4,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0,
       "Other": 1,
       "Renewable general": 0,
@@ -181,7 +181,7 @@ export let sdgData = [
     },
     {
       "sdg": 4,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0.75,
@@ -191,7 +191,7 @@ export let sdgData = [
     },
     {
       "sdg": 5,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.6,
       "Other": 0,
       "Renewable general": 0,
@@ -201,7 +201,7 @@ export let sdgData = [
     },
     {
       "sdg": 5,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -211,7 +211,7 @@ export let sdgData = [
     },
     {
       "sdg": 5,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0,
       "Other": 1,
       "Renewable general": 0,
@@ -221,7 +221,7 @@ export let sdgData = [
     },
     {
       "sdg": 5,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0.6666666666666666,
@@ -231,7 +231,7 @@ export let sdgData = [
     },
     {
       "sdg": 6,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0,
       "Other": 0.5,
       "Renewable general": 0,
@@ -241,7 +241,7 @@ export let sdgData = [
     },
     {
       "sdg": 6,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -251,7 +251,7 @@ export let sdgData = [
     },
     {
       "sdg": 6,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0,
       "Other": 0.3333333333333333,
       "Renewable general": 0,
@@ -261,7 +261,7 @@ export let sdgData = [
     },
     {
       "sdg": 6,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0,
       "Other": 1,
       "Renewable general": 0,
@@ -271,7 +271,7 @@ export let sdgData = [
     },
     {
       "sdg": 6,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.25,
       "Other": 0.25,
       "Renewable general": 0,
@@ -281,7 +281,7 @@ export let sdgData = [
     },
     {
       "sdg": 7,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.3516483516483517,
       "Other": 0.07692307692307693,
       "Renewable general": 0.13186813186813187,
@@ -291,7 +291,7 @@ export let sdgData = [
     },
     {
       "sdg": 7,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0.2222222222222222,
       "Other": 0.05555555555555555,
       "Renewable general": 0.1111111111111111,
@@ -301,7 +301,7 @@ export let sdgData = [
     },
     {
       "sdg": 7,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0.45454545454545453,
       "Other": 0.10227272727272727,
       "Renewable general": 0.056818181818181816,
@@ -311,7 +311,7 @@ export let sdgData = [
     },
     {
       "sdg": 7,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 1,
       "Other": 0,
       "Renewable general": 0,
@@ -321,7 +321,7 @@ export let sdgData = [
     },
     {
       "sdg": 7,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.20987654320987653,
       "Other": 0.07407407407407407,
       "Renewable general": 0.18518518518518517,
@@ -331,7 +331,7 @@ export let sdgData = [
     },
     {
       "sdg": 8,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0.2727272727272727,
@@ -341,7 +341,7 @@ export let sdgData = [
     },
     {
       "sdg": 8,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -351,7 +351,7 @@ export let sdgData = [
     },
     {
       "sdg": 8,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0.3333333333333333,
       "Other": 0,
       "Renewable general": 0,
@@ -361,7 +361,7 @@ export let sdgData = [
     },
     {
       "sdg": 8,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 1,
       "Other": 0,
       "Renewable general": 0,
@@ -371,7 +371,7 @@ export let sdgData = [
     },
     {
       "sdg": 8,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0,
       "Other": 0.2,
       "Renewable general": 0.6,
@@ -381,7 +381,7 @@ export let sdgData = [
     },
     {
       "sdg": 9,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.32432432432432434,
       "Other": 0.05405405405405406,
       "Renewable general": 0.2702702702702703,
@@ -391,7 +391,7 @@ export let sdgData = [
     },
     {
       "sdg": 9,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0.3333333333333333,
       "Other": 0,
       "Renewable general": 0.6666666666666666,
@@ -401,7 +401,7 @@ export let sdgData = [
     },
     {
       "sdg": 9,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0.23809523809523808,
       "Other": 0.19047619047619047,
       "Renewable general": 0,
@@ -411,7 +411,7 @@ export let sdgData = [
     },
     {
       "sdg": 9,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0.6666666666666666,
       "Other": 0.3333333333333333,
       "Renewable general": 0,
@@ -421,7 +421,7 @@ export let sdgData = [
     },
     {
       "sdg": 9,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.1724137931034483,
       "Other": 0.13793103448275862,
       "Renewable general": 0.1724137931034483,
@@ -431,7 +431,7 @@ export let sdgData = [
     },
     {
       "sdg": 10,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.25,
       "Other": 0.125,
       "Renewable general": 0.25,
@@ -441,7 +441,7 @@ export let sdgData = [
     },
     {
       "sdg": 10,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0.5,
       "Other": 0,
       "Renewable general": 0,
@@ -451,7 +451,7 @@ export let sdgData = [
     },
     {
       "sdg": 10,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -461,7 +461,7 @@ export let sdgData = [
     },
     {
       "sdg": 10,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.23809523809523808,
       "Other": 0,
       "Renewable general": 0.09523809523809523,
@@ -471,7 +471,7 @@ export let sdgData = [
     },
     {
       "sdg": 11,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.25925925925925924,
       "Other": 0.1111111111111111,
       "Renewable general": 0.37037037037037035,
@@ -481,7 +481,7 @@ export let sdgData = [
     },
     {
       "sdg": 11,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 1,
@@ -491,7 +491,7 @@ export let sdgData = [
     },
     {
       "sdg": 11,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0.12121212121212122,
       "Other": 0.09090909090909091,
       "Renewable general": 0.12121212121212122,
@@ -501,7 +501,7 @@ export let sdgData = [
     },
     {
       "sdg": 11,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0.25,
       "Other": 0,
       "Renewable general": 0.5,
@@ -511,7 +511,7 @@ export let sdgData = [
     },
     {
       "sdg": 11,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.21621621621621623,
       "Other": 0.05405405405405406,
       "Renewable general": 0.21621621621621623,
@@ -521,7 +521,7 @@ export let sdgData = [
     },
     {
       "sdg": 12,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.4857142857142857,
       "Other": 0.08571428571428572,
       "Renewable general": 0.05714285714285714,
@@ -531,7 +531,7 @@ export let sdgData = [
     },
     {
       "sdg": 12,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0.2,
       "Other": 0.1,
       "Renewable general": 0.1,
@@ -541,7 +541,7 @@ export let sdgData = [
     },
     {
       "sdg": 12,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0,
       "Other": 0.18181818181818182,
       "Renewable general": 0,
@@ -551,7 +551,7 @@ export let sdgData = [
     },
     {
       "sdg": 12,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.3076923076923077,
       "Other": 0.15384615384615385,
       "Renewable general": 0.23076923076923078,
@@ -561,7 +561,7 @@ export let sdgData = [
     },
     {
       "sdg": 13,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.375,
       "Other": 0.0625,
       "Renewable general": 0.10416666666666667,
@@ -571,7 +571,7 @@ export let sdgData = [
     },
     {
       "sdg": 13,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0.4,
@@ -581,7 +581,7 @@ export let sdgData = [
     },
     {
       "sdg": 13,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0.10526315789473684,
       "Other": 0,
       "Renewable general": 0.10526315789473684,
@@ -591,7 +591,7 @@ export let sdgData = [
     },
     {
       "sdg": 13,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0.6666666666666666,
@@ -601,7 +601,7 @@ export let sdgData = [
     },
     {
       "sdg": 13,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0.16666666666666666,
       "Other": 0.08333333333333333,
       "Renewable general": 0.25,
@@ -611,7 +611,7 @@ export let sdgData = [
     },
     {
       "sdg": 14,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0,
       "Other": 1,
       "Renewable general": 0,
@@ -621,7 +621,7 @@ export let sdgData = [
     },
     {
       "sdg": 14,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -631,7 +631,7 @@ export let sdgData = [
     },
     {
       "sdg": 14,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0,
       "Other": 0.5,
       "Renewable general": 0,
@@ -641,7 +641,7 @@ export let sdgData = [
     },
     {
       "sdg": 15,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 1,
       "Other": 0,
       "Renewable general": 0,
@@ -651,7 +651,7 @@ export let sdgData = [
     },
     {
       "sdg": 15,
-      "rb": "Regional Bureau for Arab States",
+      "rb": "Arab States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0.5,
@@ -661,7 +661,7 @@ export let sdgData = [
     },
     {
       "sdg": 15,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0.5,
@@ -671,7 +671,7 @@ export let sdgData = [
     },
     {
       "sdg": 15,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 1,
@@ -681,7 +681,7 @@ export let sdgData = [
     },
     {
       "sdg": 15,
-      "rb": "Regional Bureau for Latin American Countries",
+      "rb": "Latin American Countries",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 0,
@@ -691,7 +691,7 @@ export let sdgData = [
     },
     {
       "sdg": 16,
-      "rb": "Regional Bureau for Europe and the Commonwealth of Independent States",
+      "rb": "Europe and the Commonwealth of Independent States",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 1,
@@ -701,7 +701,7 @@ export let sdgData = [
     },
     {
       "sdg": 17,
-      "rb": "Regional Bureau for Africa",
+      "rb": "Africa",
       "Household application": 0.5,
       "Other": 0,
       "Renewable general": 0,
@@ -711,7 +711,7 @@ export let sdgData = [
     },
     {
       "sdg": 17,
-      "rb": "Regional Bureau for Asia and Pacific",
+      "rb": "Asia and Pacific",
       "Household application": 0,
       "Other": 0,
       "Renewable general": 1,
