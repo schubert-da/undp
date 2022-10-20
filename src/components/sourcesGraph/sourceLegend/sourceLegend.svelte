@@ -6,7 +6,7 @@
     <div class="legend-title">Energy categorisation </div>
     <div class="legend-item">
         <div class="rect rect-household"></div>
-        <span class="legend-item-text"> Household applications</span>
+        <span class="legend-item-text"> Household applications <br> <span class="light">Solutions that address problems at household level. eg energy meters, battery packs.</span></span>
     </div>
 
     <div class="legend-item">
@@ -16,17 +16,17 @@
 
     <div class="legend-item">
         <div class="rect rect-thermal"></div>
-        <span class="legend-item-text"> Thermal</span>
+        <span class="legend-item-text"> Thermal <br> <span class="light">Wood, coal, biomass-based stoves/processors, geo-thermal, etc.</span></span>
     </div>
 
     <div class="legend-item">
         <div class="rect rect-renewable"></div>
-        <span class="legend-item-text"> Renewable general</span>
+        <span class="legend-item-text"> Renewable general <br> <span class="light">Summary term for solutions with an educational purpose improved resource/energy management, and green urban mobility.</span></span>
     </div>
 
     <div class="legend-item">
         <div class="rect rect-other"></div>
-        <span class="legend-item-text"> Other</span>
+        <span class="legend-item-text"> Other <br> <span class="light">Includes less prominent categories like wind, mechanical, chemical, etc.</span></span>
     </div>
 </div>
 
@@ -38,7 +38,7 @@
 
         border: 1px solid #999;
         border-radius: 5px;
-        max-width: 250px;
+        max-width: 400px;
 
         /* margin-bottom: 40px; */
     }
@@ -67,8 +67,14 @@
         font-size: 17px;
     }
 
+    .legend-item-text .light{
+        font-weight: 400;
+        font-size: 16px;
+    }
+
     .rect{
         width: 23px;
+        min-width: 23px;
         height: 23px;
         margin: 2px;
 

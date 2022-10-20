@@ -19,7 +19,7 @@
     <p>
         <span class="italic">Since the beginning of time, people have been dreaming up ways to make life better for themselves and those around them, but too often their ideas get lost in a noisy world...</span>
         <br><br>
-        As seen in the graph below, solutions captured by the UNDP labs often are still in the <b>prototype</b>( <span class="rect rect-proto"></span> ) stage where their <b>feasibility and scalability is still unknown</b>. Only x% of solutions were tagged as <b>products</b>( <span class="rect rect-prod"></span> ) which were ready to scale to the masses. 
+        As seen in the graph below, solutions captured by the UNDP labs often are still in the <b>prototype</b>( <span class="rect rect-proto"></span> ) stage where their <b>feasibility and scalability is still unknown</b>. Only 35% of solutions were tagged as <b>products</b>( <span class="rect rect-prod"></span> ) which were ready to scale to the masses. 
         <br><br>
         Only through the sharing of knowledge and resources are these grassroot solutions able to thrive. Those that are willing to train others in using and replicating their solutions( <span class="rect rect-proto"><span class="inner-rect"></span></span>, <span class="rect rect-prod"><span class="inner-rect"></span></span> ) are also shown in the graphic.
     </p>

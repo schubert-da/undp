@@ -4,7 +4,7 @@
     import { sdgData, sdgLabels } from "../../../data/sdg_data";
 
 
-    let chosenSDGs = [1,2,3,4,5];
+    let chosenSDGs = [7,11,9,13,12];
 </script>
 
 <div class="title">
